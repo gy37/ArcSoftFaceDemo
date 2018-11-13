@@ -18,7 +18,8 @@
 
 
 ### 注意事项
-从官网直接下载下来的demo运行报错，需要在Targets->Build Phases->Link Binary With Libraries里面添加对应的Framework。
+**从官网直接下载下来的demo运行报错，需要在Targets->Build Phases->Link Binary With Libraries里面添加对应的Framework。**
+![如图所示](https://github.com/gy37/ArcSoftFaceDemo/blob/master/Screen%20Shot%202018-11-13%20at%2017.47.21.png)
 
-此demo内的iOS SDK为2.0版本，使用之前请先到[虹软官网](http://www.arcsoft.com.cn)注册成为开发者，获取对应的appid和sdkkey，人脸识别引擎初始化时需要这两个key。
+**此demo内的iOS SDK为2.0版本，使用之前请先到[虹软官网](http://www.arcsoft.com.cn)注册成为开发者，获取对应的appid和sdkkey，人脸识别引擎初始化时需要这两个key。**
 
