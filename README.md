@@ -18,5 +18,8 @@
 ##### 虹软官方demo
 从官网直接下载下来的demo运行报错，需要在Targets->Build Phases->Link Binary With Libraries里面添加对应的Framework。
 
-[虹软官网链接](http://www.arcsoft.com.cn)
+
+
+### 注意事项
+使用之前请先到[虹软官网](http://www.arcsoft.com.cn)注册成为开发者，获取对应的appid和sdkkey，人脸识别引擎初始化时需要这两个key。
 
