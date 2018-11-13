@@ -15,11 +15,10 @@
 4. 视频模式人脸识别及比对
 5. 视频模式注册人脸
 
-##### 虹软官方demo
-从官网直接下载下来的demo运行报错，需要在Targets->Build Phases->Link Binary With Libraries里面添加对应的Framework。
-
 
 
 ### 注意事项
+从官网直接下载下来的demo运行报错，需要在Targets->Build Phases->Link Binary With Libraries里面添加对应的Framework。
+
 此demo内的iOS SDK为2.0版本，使用之前请先到[虹软官网](http://www.arcsoft.com.cn)注册成为开发者，获取对应的appid和sdkkey，人脸识别引擎初始化时需要这两个key。
 
