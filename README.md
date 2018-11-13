@@ -21,5 +21,5 @@
 
 
 ### 注意事项
-使用之前请先到[虹软官网](http://www.arcsoft.com.cn)注册成为开发者，获取对应的appid和sdkkey，人脸识别引擎初始化时需要这两个key。
+此demo内的iOS SDK为2.0版本，使用之前请先到[虹软官网](http://www.arcsoft.com.cn)注册成为开发者，获取对应的appid和sdkkey，人脸识别引擎初始化时需要这两个key。
 
