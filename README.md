@@ -18,5 +18,5 @@
 ##### 虹软官方demo
 从官网直接下载下来的demo运行报错，需要在Targets->Build Phases->Link Binary With Libraries里面添加对应的Framework。
 
-[虹软官网链接](http://www.arcsoft.com.cn?_blank)
+[虹软官网链接](http://www.arcsoft.com.cn){:target='_blank'}
 
